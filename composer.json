@@ -1,0 +1,17 @@
+{
+    "name": "y.k/portfolio-no-004",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YK\\PortfolioNo004\\": "php/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Y K",
+            "email": "250625388+z-at-0@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
